@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about issues with my programs
 - 📫 How to reach me: Email nien72056@gmail.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: I've got a good skill to program in Batch, VB and HTML.
+- ⚡ Fun fact: I have a good skill to program in Batch, VB and HTML.
